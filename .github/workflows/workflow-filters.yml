@@ -10,12 +10,12 @@ on:
     
     
     pull_request: 
-        types:
-        - opened
-        - closed
-        paths-ignore: 
-        - README.md
-        branches:
+       types:
+          - opened
+          - closed
+       paths-ignore: 
+         - README.md
+       branches:
             - main
 jobs:
     hello:
