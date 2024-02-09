@@ -4,3 +4,4 @@
 #2024 - learning my essential cloud devops tools
 
 excited about my learning progression this year!
+excited for Las Vegas!
